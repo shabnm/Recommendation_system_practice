@@ -1,2 +1,2 @@
 # Recommendation_system_practice
-Practice session
+Working on building a recommendation system for personal application
